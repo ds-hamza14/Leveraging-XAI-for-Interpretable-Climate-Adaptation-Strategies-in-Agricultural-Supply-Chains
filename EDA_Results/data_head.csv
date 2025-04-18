@@ -1,0 +1,6 @@
+Year,Country,Region,Crop_Type,Average_Temperature_C,Total_Precipitation_mm,CO2_Emissions_MT,Crop_Yield_MT_per_HA,Extreme_Weather_Events,Irrigation_Access_%,Pesticide_Use_KG_per_HA,Fertilizer_Use_KG_per_HA,Soil_Health_Index,Adaptation_Strategies,Economic_Impact_Million_USD
+2001,India,West Bengal,Corn,1.55,447.06,15.22,1.737,8,14.54,10.08,14.78,83.25,Water Management,808.13
+2024,China,North,Corn,3.23,2913.57,29.82,1.737,8,11.05,33.06,23.25,54.02,Crop Rotation,616.22
+2001,France,Ile-de-France,Wheat,21.11,1301.74,25.75,1.719,5,84.42,27.41,65.53,67.78,Water Management,796.96
+2001,Canada,Prairies,Coffee,27.85,1154.36,13.91,3.89,5,94.06,14.38,87.58,91.39,No Adaptation,790.32
+1998,India,Tamil Nadu,Sugarcane,2.19,1627.48,11.81,1.08,9,95.75,44.35,88.08,49.61,Crop Rotation,401.72

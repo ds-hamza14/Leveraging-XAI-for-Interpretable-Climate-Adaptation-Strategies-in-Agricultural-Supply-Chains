@@ -1,0 +1,23 @@
+Dataset Information:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 10000 entries, 0 to 9999
+Data columns (total 15 columns):
+ #   Column                       Non-Null Count  Dtype  
+---  ------                       --------------  -----  
+ 0   Year                         10000 non-null  int64  
+ 1   Country                      10000 non-null  object 
+ 2   Region                       10000 non-null  object 
+ 3   Crop_Type                    10000 non-null  object 
+ 4   Average_Temperature_C        10000 non-null  float64
+ 5   Total_Precipitation_mm       10000 non-null  float64
+ 6   CO2_Emissions_MT             10000 non-null  float64
+ 7   Crop_Yield_MT_per_HA         10000 non-null  float64
+ 8   Extreme_Weather_Events       10000 non-null  int64  
+ 9   Irrigation_Access_%          10000 non-null  float64
+ 10  Pesticide_Use_KG_per_HA      10000 non-null  float64
+ 11  Fertilizer_Use_KG_per_HA     10000 non-null  float64
+ 12  Soil_Health_Index            10000 non-null  float64
+ 13  Adaptation_Strategies        10000 non-null  object 
+ 14  Economic_Impact_Million_USD  10000 non-null  float64
+dtypes: float64(9), int64(2), object(4)
+memory usage: 1.1+ MB
